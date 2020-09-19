@@ -1,0 +1,63 @@
+[{
+    "id":1,
+    "nomeDaMusica":"A Whole New World",
+    "serieOuFilmes":"Aladdin",
+    "ano":2020
+},
+{
+    "id":2,
+    "nomeDaMusica":"This is Me",
+    "serieOuFilmes":"The Greatest Showman",
+    "ano":2017
+},
+{
+    "id":3,
+    "nomeDaMusica":"Ciclo sem fim",
+    "serieOuFilmes":"O Rei Leão",
+    "ano":2019
+},
+{
+    "id":4,
+    "nomeDaMusica":"Viagem ao passado",
+    "serieOuFilmes":"Anastacia",
+    "ano":1997
+},
+{
+    "id":5,
+    "nomeDaMusica":"Dancing Queen",
+    "serieOuFilmes":"Mamma Mia",
+    "ano":2008
+},
+{
+    "id":6,
+    "nomeDaMusica":"Big fanny",
+    "serieOuFilmes":"Heathers",
+    "ano": 1988
+},
+{
+    "id":7,
+    "nomeDaMusica":"Defying Gravity",
+    "serieOuFilmes":"Wicker",
+    "ano": 2003
+},
+{
+    "id":8,
+    "nomeDaMusica":"All I Ask of You",
+    "serieOuFilmes":"O fantasma da Opera",
+    "ano": 2004
+},
+{
+    "id":9,
+    "nomeDaMusica":"Do-re-mi",
+    "serieOuFilmes":"A noviça rebelde",
+    "ano": 1965
+},
+{
+    "id":10,
+    "nomeDaMusica":"Mulan",
+    "serieOuFilmes":"Homem Ser",
+    "ano": 2004
+}
+]
+
+
