@@ -1,68 +1,91 @@
-[
-   {
-       "Nome": "The "
-   } 
+[{
+    "id":1,
+    "nome": "Julie and the Phantoms",
+    "genero":["Musical","fantasia","teen"],
+    "protagonista":["Julie","Luke","Reggie","Alex"],
+    "temporadas": 1,
+    "concluida": true
+ },
+ {
+    "id":2,
+    "nome": "Dark",
+    "genero":["suspense", "ação", "fantasia"],
+    "protagonista":["Jonas","Mikkel", "Hannah","Ines","Martha"],
+    "temporadas": 3,
+    "concluida": false
+ },
+ {
+    "id":3,
+    "nome": "Anne with an E",
+    "genero":["fantasia","drama","baseada em livro"],
+    "protagonista":["Anne","Gilbert","Marilla","Matthew","Diana"],
+    "temporadas": 3,
+    "concluida": true
+ },
+ {
+    "id":4,
+    "nome": "Cursed",
+    "genero":["fantasia","teen","baseada em livro"],
+    "protagonista":["Numie","Arturo","Merlín","Morgana","Percival"],
+    "temporadas": 1,
+    "concluida": true
+ },
+ {
+    "id":5,
+    "nome": "Caçadores de Troll",
+    "genero":["fantasia","infantil","desenho animado"],
+    "protagonista":["Jim","Draal","Clara","Bobby"],
+    "temporadas": 3,
+    "concluida": true
+ },
+ {
+    "id":6,
+    "nome": "Rupaul Drag Race",
+    "genero":["LGBTQIA","reality show","americana"],
+    "protagonista":["RuPaul","Michelle","Participantes"],
+    "temporadas": 9,
+    "concluida": false
+ },
+ {
+    "id":7,
+    "nome": "13 reason why",
+    "genero":["crime","drama","teen","baseado em livro"],
+    "protagonista":["Clay","Hannah","Tony","Jessica","Justin","Bryce"],
+    "temporadas": 4,
+    "concluida": true
+ },
+ {
+    "id":8,
+    "nome": "The witcher",
+    "genero":["fantasia","drama","baseado em HQ"],
+    "protagonista":["Geralt de Rivia","Ciri","Cahir","Jaskier"],
+    "temporadas": 1,
+    "concluida": true
+ },
+ {
+    "id":9,
+    "nome": "Warrior Num",
+    "genero":["fantasia","teen","baseado em HQ"],
+    "protagonista":["Ava","Padre Vicent","Shotgun Mary","Hermana Lilith"],
+    "temporadas": 1,
+    "concluida": true
+ },
+ {
+    "id":10,
+    "nome": "The Umbrella Academy",
+    "genero":["fantasia","super heroes","baseado em HQ"],
+    "protagonista":["Vanya Hargreeves","Luther Hargreeves","Diego Hargreeves","Allison Hargreeves", "Klaus Hargreeves","Ben Hargreeves","Numero Cinco"],
+    "temporadas": 2,
+    "concluida": true
+ },
+ {
+    "id":11,
+    "nome": "Lucifer",
+    "genero":["fantasia","poilicial","americano"],
+    "protagonista":["Lucifer","Detetive Chloe","Detetive Dan", "Mazi","Doutora Linda"],
+    "temporadas": 6,
+    "concluida": false
+ }
 ]
 
 
-Nome 
-Genero
-Plataforma
-
-
-[
-    {
-        "titulo": "A Origem",
-        "genero": "Ficção Científica",
-        "ano": "2010"
-    },
-
-
-    {
-        "titulo": "La La Land: Cantando Estações",
-        "genero": "Musical",
-        "ano": "2016"
-    },
-
-    
-    {
-        "titulo": "O Dilema das Redes",
-        "genero": "Documentário",
-        "ano": "2020"
-    },
-    {
-        "titulo": "O Castelo no Céu",
-        "genero": "Animação",
-        "ano": "1986"
-    },
-    {
-        "titulo": "HOMECOMING: A film by Beyoncé",
-        "genero": "Documentário",
-        "ano": "2019"
-    },
-    {
-        "titulo": "Hoje eu quero voltar sozinho",
-        "genero": "Romance",
-        "ano": "2014"
-    },
-    {
-        "titulo": "Clube dos Cinco",
-        "genero": "1985",
-        "ano": "Comédia"
-    },
-    {
-        "titulo": "V de Vingança",
-        "genero": "Suspense",
-        "ano": "2005"
-    },
-    {
-        "titulo": "Garota Exemplar",
-        "genero": "Suspense",
-        "ano": "2014"
-    },
-    {
-        "titulo": "Minha História",
-        "genero": "Documentário",
-        "ano": "2020"
-    }
-]
