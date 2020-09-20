@@ -1,0 +1,71 @@
+[{
+    "id":1,
+    "pais": "Brasil",
+    "cidades": [{"Foz de Iguaçu"},{"Curitiba"},{"São Paulo"},{"Porto Alegre"}],
+    "moeda":"Reais",
+    "visto": false
+ },
+ {
+    "id":2,
+    "pais": "Peru",
+    "cidades": [{"Arequipa"},{"Cusco"},{"Lima"},{"Machu Picchu"}],
+    "moeda":"Sol",
+    "visto": false
+ },
+ {
+    "id":3,
+    "pais": "Bolívia",
+    "cidades": [{"La Paz"},{"Uyuni"},{"Cochabamba"}],
+    "moeda":"Boliviano",
+    "visto": false
+ },
+ {
+    "id":4,
+    "pais": "Colômbia",
+    "cidades": [{"Bogotá"},{"Cartagena"},{"Medellín"},{"San Andrés"}],
+    "moeda":"Peso colombiano",
+    "visto": false
+ },
+ {
+    "id":5,
+    "pais": "Vietnã",
+    "cidades": [{"Halong Bay"},{"SaPa"},{"Hanói"},{"Saigon"}],
+    "moeda":"Dong",
+    "visto": true
+ },
+ {
+    "id":6,
+    "pais": "Tailândia",
+    "cidades": [{"Bangkok"},{"Chiang Mai"},{"Hanói"},{"Saigon"}],
+    "moeda":"Baht",
+    "visto": true
+ },
+ {
+    "id":7,
+    "pais": "Indonésia",
+    "cidades": [{"Bali"},{"Java"},{"Lombok"},{"Sonda"}],
+    "moeda":"Rupia",
+    "visto": true
+ },
+ {
+    "id":8,
+    "pais": "Polônia",
+    "cidades": [{"Cracóvia"},{"Poznan"},{"Zakopane"}],
+    "moeda":"Złoty",
+    "visto": true
+ },
+ {
+    "id":9,
+    "pais": "Hungria",
+    "cidades": [{"Budapeste"},{"Buda"},{"Pest"}],
+    "moeda":"Forinto",
+    "visto": true
+ },
+ {
+    "id":10,
+    "pais": "Croácia",
+    "cidades": [{"Zagreb"},{"Parque Plitvice"},{"Dubrovnik"}],
+    "moeda":"Kuna",
+    "visto": true
+ }
+]
