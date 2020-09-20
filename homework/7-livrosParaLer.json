@@ -1,0 +1,140 @@
+[{
+    "livro":1,
+    "nome":"Me poupe",
+    "autor":"Nathalia Arcuri",
+    "formato":"Digital",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Setembro",
+        "concluido": false}  
+},
+{
+    "livro":2,
+    "nome":"Vá lá e faz",
+    "autor":"Tiago Mattos",
+    "formato":"Digital",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Setembro",
+        "concluido": false}  
+},
+{
+    "livro":3,
+    "nome":"Produtividade para quem quer tempo",
+    "autor":"Geronimo Theml",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Outubro",
+        "concluido": false}  
+},
+{
+    "livro":4,
+    "nome":"O milagre da manhã",
+    "autor":"Hal Elrod",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Outubro",
+        "concluido": false}  
+},
+{
+    "livro":5,
+    "nome":"A fórmula de lançamento",
+    "autor":"Jeff Walker",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Outubro",
+        "concluido": false}  
+},
+{
+    "livro":6,
+    "nome":"O poder do hábito",
+    "autor":"Charles Duhigg",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Novembro",
+        "concluido": false}  
+},
+{
+    "livro":7,
+    "nome":"As armas da persuasão",
+    "autor":"Robert B. Cialdini",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Novembro",
+        "concluido": false}  
+},
+{
+    "livro":8,
+    "nome":"Milagres que acontecem",
+    "autor":"Mary Kay Ash",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Novembro",
+        "concluido": false}  
+},
+{
+    "livro":9,
+    "nome":"O código da mudança",
+    "autor":"Othon Gama",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Dezembro",
+        "concluido": false}  
+},
+{
+    "livro":10,
+    "nome":"O poder da empatia",
+    "autor":"Roman Krznaric",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Dezembro",
+        "concluido": false}  
+},
+{
+    "livro":11,
+    "nome":"O jeito Harvard de ser Feliz",
+    "autor":"Shawn Achor",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Dezembro",
+        "concluido": false}  
+},
+{
+    "livro":12,
+    "nome":"Isaac Newton e sua maçã",
+    "autor":"Kjartan Poskitt",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Janeiro",
+        "concluido": false}  
+},
+{
+    "livro":13,
+    "nome":"O manuscrito original",
+    "autor":"Napolean Hill",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Janeiro",
+        "concluido": false}  
+},
+{
+    "livro":14,
+    "nome":"50 ideias química que você precisa conhecer",
+    "autor":"Hayley Birch",
+    "formato":"Impresso",
+    "informacaoLeitura":{
+        "Ano": 2020,
+        "Mês": "Janeiro",
+        "concluido": false}  
+}
+]

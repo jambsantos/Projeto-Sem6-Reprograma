@@ -1,0 +1,71 @@
+[{
+    "id":1,
+    "nome": "Grace Hopper",
+    "invencao":["COBOL","bug/debug"],
+    "nacionalidade": "Americana",
+    "formacao": "Matemática"
+},
+{
+    "id":2,
+    "nome": "Ada Lovelace",
+    "invencao":["algoritmo","primeira programadora da história"],
+    "nacionalidade":"Britânica",
+    "formacao": "Matemática"
+},
+{
+    "id":3,
+    "nome": "Hedy Lamarr",
+    "invencao":["salto de frequência","mãe do WIFI e Bluetooth"],
+    "nacionalidade":"Austriaca",
+    "formacao": "Engenharia"
+},
+{
+    "id":4,
+    "nome": "Radia Perlman",
+    "invencao":["Mãe da internet","protocolo Spanning Tree -STP"],
+    "nacionalidade":"Americana",
+    "formacao": "Ciência da computação"
+},
+{
+    "id":5,
+    "nome": "Susan Kare",
+    "invencao":["Apple design","baralho de cartas - paciência"],
+    "nacionalidade":"Americana",
+    "formacao": "Design gráfico"
+},
+{
+    "id":6,
+    "nome": "Marissa Mayer",
+    "invencao":["Google Maps","Gmail","Google Images","CEO Yahoo"],
+    "nacionalidade":"Americana",
+    "formacao": "Engenheira da computação"
+},
+{
+    "id":7,
+    "nome": "Barbara McClintock",
+    "invencao":["Nobel de medicina","transposição genética","Mãe da genética"],
+    "nacionalidade":"Americana",
+    "formacao": "Bacharel em Ciências"
+},
+{
+    "id":8,
+    "nome": "Sofia Kovalévskaya",
+    "invencao":["Equações diferenciais","derivadas parciais"],
+    "nacionalidade":"Russa",
+    "formacao": "Matemática"
+},
+{
+    "id":9,
+    "nome": "Katherine Johnson",
+    "invencao":["Cálculo do vôo da Apolo 11","calculadora humana"],
+    "nacionalidade":"Americana",
+    "formacao": "Matemática"
+},
+{
+    "id":10,
+    "nome": "Irmã Mary Kenneth Keller",
+    "invencao":["Inclusão social pela tecnologia","ferramentas educacionais"],
+    "nacionalidade":"Americana",
+    "formacao": "Ciência da computação "
+}
+]
