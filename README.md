@@ -1,20 +1,20 @@
 # Projeto-Semana6-Reprograma-Portp
 Atividades desenvolvidas na semana 6 do programa de formação em Back-End da Reprograma com apoio do Minas-Porto Digital
 
-### Exercícios em aula
+## Exercícios em aula
 - bloco-1
 - bloco-2
 - bloco-3
 - bloco-4
 
-### Exercícios para casa
+## Exercícios para casa
 - homework
 Criar dez arquivos .json e em cada arquivo fazer uma lista, é necessário fazer, no mínimo dez itens, 
 cada item deve conter pelo menos três atributos. 
 
-Listas Criadas:
-1-agendaDoReprograma.json
-2-heroesMarvel.json
+### Listas Criadas:
+> 1-agendaDoReprograma.json
+> 2-heroesMarvel.json
 3-atalhosVScode.json
 4-mutantesMarvel.json
 5-plataformasProgramarFree.json
