@@ -9,6 +9,7 @@ Atividades desenvolvidas na semana 6 do programa de formação em Back-End da Re
 
 ## Exercícios para casa
 - homework
+
 Criar dez arquivos .json e em cada arquivo fazer uma lista, é necessário fazer, no mínimo dez itens, 
 cada item deve conter pelo menos três atributos. 
 
