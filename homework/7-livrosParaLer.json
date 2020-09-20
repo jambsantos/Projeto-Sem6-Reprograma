@@ -1,25 +1,12 @@
 [{
-    "Nome":,
-    "Autor":,
-    "Formato":,
-    "Data":{
+    "livro":1,
+    "nome":"A fórmula de lançamento",
+    "autor":"Jeff Walker",
+    "formato":"Impresso",
+    "informacaoLeitura":{
         "Ano": 2020,
-        "Mês": "Setembro"
-    }
-},
-{
-    "Nome":,
-    "Autor":,
-    "Formato":,
-    "Data":{
-        "Ano": 2020,
-        "Mês": "Setembro"
-    }
-},
+        "Mês": "Setembro",
+        "concluido": false
+    }  
+}
 ]
-
-"id": 8,
-        "dataInclusao": "13/09/2020",
-        "concluido": false,
-        "descricao": "Organizar rotina de estudos",
-        "nomeColaboradora": "Paula"
